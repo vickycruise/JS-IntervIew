@@ -1,3 +1,6 @@
 [submodule "javascript-interview"]
 	path = javascript-interview
 	url = https://github.com/sudheerj/javascript-interview-questions.git
+[submodule "react-qs"]
+	path = react-qs
+	url = https://github.com/sudheerj/reactjs-interview-questions.git
