@@ -1,0 +1,3 @@
+[submodule "javascript-interview"]
+	path = javascript-interview
+	url = https://github.com/sudheerj/javascript-interview-questions.git
